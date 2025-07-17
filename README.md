@@ -41,7 +41,7 @@ This project demonstrates how to download, clean, analyze, and visualize the vol
 
 ```bash
 pip install pandas numpy yfinance matplotlib
-```bash
+```
 
 ## Usage
 
@@ -49,6 +49,8 @@ pip install pandas numpy yfinance matplotlib
 
 ```bash
 python Project5.py
-##License
+```
 
--This project is for educational purposes and does not have a license.
+## License
+
+- This project is for educational purposes and does not have a license.
